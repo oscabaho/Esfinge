@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/BP_Player.uasset",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Scenes/Pruebas1.umap",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/Input/IA_MakeNoise.uasset",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/Input/IMC_Player.uasset",
@@ -15,7 +14,16 @@
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/BB_Elena.uasset",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/BT_Elena.uasset",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_ClearHasNoise.uasset",
-				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_GetRandomPoint.uasset"
+				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_GetRandomPoint.uasset",
+				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/EQS_Patrulla.uasset",
+				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/Context_Ruido.uasset",
+				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/EnvQuerryContext_Ruido.uasset",
+				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/EnvQueryContext_Ruido.uasset",
+				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/EQS_Investigar.uasset",
+				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTS_DetectionLogic.uasset",
+				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_AtaqueMelee.uasset",
+				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/UI/WBP_DetectionBar.uasset",
+				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/BP_Player.uasset"
 			]
 		}
 	]
