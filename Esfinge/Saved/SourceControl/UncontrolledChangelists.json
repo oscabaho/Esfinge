@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Oscar/Esfinge/Esfinge/Content/Blueprints/AI/BTS_DetectionLogic.uasset",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Scenes/Pruebas1.umap",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/Input/IA_MakeNoise.uasset",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/Input/IMC_Player.uasset",
