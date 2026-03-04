@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Oscar/Esfinge/Esfinge/Content/Blueprints/AI/BTS_DetectionLogic.uasset",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Scenes/Pruebas1.umap",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/Input/IA_MakeNoise.uasset",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/Input/IMC_Player.uasset",
@@ -23,6 +22,10 @@
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_AtaqueMelee.uasset",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/UI/WBP_DetectionBar.uasset",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/Components/BPC_MaskHealth.uasset",
+				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/EQS_StalkPlayer.uasset",
+				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_ResetStalkTimer.uasset",
+				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/EQC_StalkLocation.uasset",
+				"D:/Oscar/Esfinge/Esfinge/Content/Blueprints/AI/BTS_DetectionLogic.uasset",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_AttackPlayer.uasset",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/Context_Ruido.uasset",
 				"D:/isabe/Documents/Esfinge/Esfinge/Content/Blueprints/AI/EnvQuerryContext_Ruido.uasset",
