@@ -1644,3 +1644,1112 @@ Script Stack (0 frames) :
 [2026.03.06-16.28.42:079][199]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2026.03.06-16.28.42:079][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.03.06-16.28.42:246][199]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2026.03.06-16.33.50:759][797]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.06-16.41.14:189][926]LogUObjectHash: Compacting FUObjectHashTables data took  11.67ms
+[2026.03.06-16.41.14:200][926]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Pruebas1' took 0.237
+[2026.03.06-16.41.14:206][926]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTT_AtaqueMelee] ([2] browsable assets)...
+[2026.03.06-16.41.14:206][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTT_AtaqueMelee]
+[2026.03.06-16.41.14:273][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI/BTT_AtaqueMelee_Auto0
+[2026.03.06-16.41.14:273][926]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/BTT_AtaqueMelee_Auto059040A244AC3ABE50346C6A8DF0EAA23.tmp' to '../../../../../Documents/Esfinge/Esfinge/Saved/Autosaves/Game/Blueprints/AI/BTT_AtaqueMelee_Auto0.uasset'
+[2026.03.06-16.41.14:280][926]LogFileHelpers: Auto-saving content packages took 0.079
+[2026.03.06-16.50.26:429][ 82]LogStreaming: Display: FlushAsyncLoading(530): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.50.26:910][ 82]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/FirstPerson/Anims/ABP_FP_Copy.ABP_FP_Copy
+[2026.03.06-16.50.26:935][ 82]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.03.06-16.50.27:418][ 82]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.03.06-16.50.27:656][ 82]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2026.03.06-16.50.27:731][ 82]LogStaticMesh: Built static mesh [0.09s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2026.03.06-16.50.27:888][ 82]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2026.03.06-16.50.27:891][ 82]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2026.03.06-16.50.27:974][ 82]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.06-16.50.29:672][ 82]LogMeshUtilities: Finished distance field build in 1.8s - 126x126x21 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 80% occupied, 0 triangles, Floor_Mesh
+[2026.03.06-16.50.29:979][ 82]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.03.06-16.50.31:482][ 82]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.03.06-16.50.58:178][782]LogSlate: Window 'ABP_FP_Copy' being destroyed
+[2026.03.06-16.51.00:425][849]LogSlate: Window 'ABP_FP_Copy' being destroyed
+[2026.03.06-16.51.08:287][180]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.51.08:289][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.51.08:434][180]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.51.08:435][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.51.08:611][180]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.51.08:611][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.51.09:044][180]LogUObjectHash: Compacting FUObjectHashTables data took  13.70ms
+[2026.03.06-16.51.20:908][762]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.03.06-16.51.20:997][763]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.03.06-16.51.21:093][764]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.03.06-16.52.35:049][438]LogStreaming: Display: FlushAsyncLoading(537): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.52.35:130][438]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01.MM_Attack_01
+[2026.03.06-16.52.35:132][438]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01.MM_Attack_01 (Required Memory Estimate: 0.69 MB)
+[2026.03.06-16.52.35:141][438]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Characters/Mannequins/Meshes/SKM_Manny (0x566804FB3B2CBDE6) - The package to load does not exist on disk or in the loader
+[2026.03.06-16.52.35:143][438]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny'
+[2026.03.06-16.52.35:147][438]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.03.06-16.52.35:168][438]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01.MM_Attack_01, at AnimationSequence/a32c3a3bf22c83317071d12e6d5f31dd92676dd0
+[2026.03.06-16.52.35:335][438]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.06-16.52.36:191][438]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.03.06-16.52.37:436][438]LogSlate: Took 0.021348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.03.06-16.52.37:485][438]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2026.03.06-16.52.37:526][438]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.03.06-16.52.38:224][439]LogStreaming: Display: FlushAsyncLoading(547): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.52.40:365][471]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.03.06-16.52.42:070][518]LogSlate: Window 'MM_Attack_01' being destroyed
+[2026.03.06-16.52.44:228][585]LogSlate: Window 'MM_Attack_01' being destroyed
+[2026.03.06-16.53.04:324][200]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.53.04:324][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.53.04:359][200]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.53.04:359][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.53.04:473][200]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.53.04:474][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.53.04:637][200]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2026.03.06-16.53.05:505][240]LogShaderCompilers: Display: ================================================
+[2026.03.06-16.53.05:505][240]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.06-16.53.05:505][240]LogShaderCompilers: Display: Total job queries 295, among them cache hits 21 (7.12%), DDC hits 206 (69.83%), Duplicates 66 (22.37%)
+[2026.03.06-16.53.05:505][240]LogShaderCompilers: Display: Tracking 208 distinct input hashes that result in 120 distinct outputs (57.69%)
+[2026.03.06-16.53.05:506][240]LogShaderCompilers: Display: RAM used: 1,06 MiB of 358,40 MiB budget. Usage: 0.30%
+[2026.03.06-16.53.05:507][240]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.06-16.53.05:507][240]LogShaderCompilers: Display: Shaders Compiled: 2
+[2026.03.06-16.53.05:507][240]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2026.03.06-16.53.05:507][240]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.06 s
+[2026.03.06-16.53.05:507][240]LogShaderCompilers: Display: Job execution time: average 8.19 s, max 8.24 s
+[2026.03.06-16.53.05:507][240]LogShaderCompilers: Display: Job life time (pending + execution): average 8.23 s, max 8.29
+[2026.03.06-16.53.05:507][240]LogShaderCompilers: Display: Shader code size: total 14,156 KiB, numShaders 2, average 7,078 KiB, min 6,402 KiB, max 7,754 KiB
+[2026.03.06-16.53.05:507][240]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.29 s
+[2026.03.06-16.53.05:508][240]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.03.06-16.53.05:508][240]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display: Average processing rate: 0.24 jobs/sec
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display: Total thread time: 3,689 s
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display: Total thread preprocess time: 8,092 s
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display: Percentage time preprocessing: 219.38%
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display: Effective parallelization: 0.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.111179
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.84 sec, max 1.89 sec, min 1.80 sec)
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    2 times, average 1.84 sec, max 1.89 sec, min 1.80 sec)
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.06-16.53.05:509][240]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.06-16.53.05:510][240]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.06-16.53.05:510][240]LogShaderCompilers: Display: === Material stats ===
+[2026.03.06-16.53.05:510][240]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.06-16.53.05:510][240]LogShaderCompilers: Display: Materials Translated:    139
+[2026.03.06-16.53.05:510][240]LogShaderCompilers: Display: Material Total Translate Time: 0.28 s
+[2026.03.06-16.53.05:510][240]LogShaderCompilers: Display: Material Translation Only: 0.12 s (44%)
+[2026.03.06-16.53.05:511][240]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.06-16.53.05:511][240]LogShaderCompilers: Display: Material Cache Hits: 18 (13%)
+[2026.03.06-16.53.05:511][240]LogShaderCompilers: Display: ================================================
+[2026.03.06-16.53.54:796][867]LogStreaming: Display: FlushAsyncLoading(548): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.54:824][868]LogStreaming: Display: FlushAsyncLoading(552): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.55:584][899]LogStreaming: Display: FlushAsyncLoading(555): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.55:619][900]LogStreaming: Display: FlushAsyncLoading(558): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.55:649][901]LogStreaming: Display: FlushAsyncLoading(561): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.55:677][902]LogStreaming: Display: FlushAsyncLoading(564): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.55:708][903]LogStreaming: Display: FlushAsyncLoading(567): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.55:742][904]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.55:770][905]LogStreaming: Display: FlushAsyncLoading(573): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.55:797][906]LogStreaming: Display: FlushAsyncLoading(576): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.55:827][907]LogStreaming: Display: FlushAsyncLoading(579): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.55:858][908]LogStreaming: Display: FlushAsyncLoading(582): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.55:885][909]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.55:911][910]LogStreaming: Display: FlushAsyncLoading(588): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.55:938][911]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.55:965][912]LogStreaming: Display: FlushAsyncLoading(594): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.55:992][913]LogStreaming: Display: FlushAsyncLoading(597): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:021][914]LogStreaming: Display: FlushAsyncLoading(600): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:050][915]LogStreaming: Display: FlushAsyncLoading(603): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:130][916]LogStreaming: Display: FlushAsyncLoading(606): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:204][917]LogStreaming: Display: FlushAsyncLoading(609): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:267][918]LogStreaming: Display: FlushAsyncLoading(612): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:301][919]LogStreaming: Display: FlushAsyncLoading(615): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:331][920]LogStreaming: Display: FlushAsyncLoading(618): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:362][921]LogStreaming: Display: FlushAsyncLoading(621): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:395][922]LogStreaming: Display: FlushAsyncLoading(624): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:424][923]LogStreaming: Display: FlushAsyncLoading(627): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:460][924]LogStreaming: Display: FlushAsyncLoading(630): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:490][925]LogStreaming: Display: FlushAsyncLoading(633): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:519][926]LogStreaming: Display: FlushAsyncLoading(636): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:547][927]LogStreaming: Display: FlushAsyncLoading(639): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:924][946]LogStreaming: Display: FlushAsyncLoading(642): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:952][947]LogStreaming: Display: FlushAsyncLoading(645): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.56:981][948]LogStreaming: Display: FlushAsyncLoading(648): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:008][949]LogStreaming: Display: FlushAsyncLoading(651): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:034][950]LogStreaming: Display: FlushAsyncLoading(654): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:063][951]LogStreaming: Display: FlushAsyncLoading(657): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:090][952]LogStreaming: Display: FlushAsyncLoading(660): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:119][953]LogStreaming: Display: FlushAsyncLoading(663): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:200][954]LogStreaming: Display: FlushAsyncLoading(666): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:267][955]LogStreaming: Display: FlushAsyncLoading(669): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:331][956]LogStreaming: Display: FlushAsyncLoading(672): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:359][957]LogStreaming: Display: FlushAsyncLoading(675): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:386][958]LogStreaming: Display: FlushAsyncLoading(678): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:416][959]LogStreaming: Display: FlushAsyncLoading(681): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:443][960]LogStreaming: Display: FlushAsyncLoading(684): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:470][961]LogStreaming: Display: FlushAsyncLoading(687): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:500][962]LogStreaming: Display: FlushAsyncLoading(690): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:529][963]LogStreaming: Display: FlushAsyncLoading(693): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:555][964]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:582][965]LogStreaming: Display: FlushAsyncLoading(699): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:611][966]LogStreaming: Display: FlushAsyncLoading(702): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:639][967]LogStreaming: Display: FlushAsyncLoading(705): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:666][968]LogStreaming: Display: FlushAsyncLoading(708): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:693][969]LogStreaming: Display: FlushAsyncLoading(711): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:722][970]LogStreaming: Display: FlushAsyncLoading(714): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:759][971]LogStreaming: Display: FlushAsyncLoading(717): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:789][972]LogStreaming: Display: FlushAsyncLoading(720): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:816][973]LogStreaming: Display: FlushAsyncLoading(723): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:846][974]LogStreaming: Display: FlushAsyncLoading(726): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:876][975]LogStreaming: Display: FlushAsyncLoading(729): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:904][976]LogStreaming: Display: FlushAsyncLoading(732): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:933][977]LogStreaming: Display: FlushAsyncLoading(735): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:963][978]LogStreaming: Display: FlushAsyncLoading(738): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.57:993][979]LogStreaming: Display: FlushAsyncLoading(741): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.58:020][980]LogStreaming: Display: FlushAsyncLoading(744): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.58:050][981]LogStreaming: Display: FlushAsyncLoading(747): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.58:080][982]LogStreaming: Display: FlushAsyncLoading(750): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.58:111][983]LogStreaming: Display: FlushAsyncLoading(753): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.58:139][984]LogStreaming: Display: FlushAsyncLoading(756): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.58:167][985]LogStreaming: Display: FlushAsyncLoading(759): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.58:196][986]LogStreaming: Display: FlushAsyncLoading(762): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.58:226][987]LogStreaming: Display: FlushAsyncLoading(765): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.58:254][988]LogStreaming: Display: FlushAsyncLoading(768): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.58:280][989]LogStreaming: Display: FlushAsyncLoading(771): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.58:307][990]LogStreaming: Display: FlushAsyncLoading(774): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.58:335][991]LogStreaming: Display: FlushAsyncLoading(777): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.53.59:806][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2026.03.06-16.54.01:052][ 54]LogSlate: Window 'Save Content' being destroyed
+[2026.03.06-16.54.01:077][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.06-16.54.01:196][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTT_AtaqueMelee] ([2] browsable assets)...
+[2026.03.06-16.54.01:197][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTT_AtaqueMelee]
+[2026.03.06-16.54.01:198][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BTT_AtaqueMelee" FILE="../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_AtaqueMelee.uasset" SILENT=true
+[2026.03.06-16.54.01:265][ 54]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTT_AtaqueMelee
+[2026.03.06-16.54.01:268][ 54]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/BTT_AtaqueMeleeB31F3F1642B479AF4E35789955EA6EE8.tmp' to '../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_AtaqueMelee.uasset'
+[2026.03.06-16.54.01:280][ 54]LogStreaming: Display: FlushAsyncLoading(780): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.01:281][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01] ([1] browsable assets)...
+[2026.03.06-16.54.01:282][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01]
+[2026.03.06-16.54.01:354][ 54]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01
+[2026.03.06-16.54.01:355][ 54]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/MM_Attack_012BAC36064977FF0A870E0CAA19F3E97A.tmp' to '../../../../../Documents/Esfinge/Esfinge/Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01.uasset'
+[2026.03.06-16.54.01:389][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 312.323 ms (total: 1.28 sec)
+[2026.03.06-16.54.01:528][ 54]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.06-16.54.01:529][ 54]LogContentValidation: Enabled validators:
+[2026.03.06-16.54.01:529][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.06-16.54.01:529][ 54]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.06-16.54.01:529][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.06-16.54.01:530][ 54]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.06-16.54.01:530][ 54]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.06-16.54.01:530][ 54]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.06-16.54.01:533][ 54]AssetCheck: /Game/Blueprints/AI/BTT_AtaqueMelee Validating asset
+[2026.03.06-16.54.01:533][ 54]AssetCheck: /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01 Validating asset
+[2026.03.06-16.54.01:568][ 54]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Documents/Esfinge/Esfinge/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.06-16.54.01:593][ 56]LogStreaming: Display: FlushAsyncLoading(782): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.03:795][171]LogStreaming: Display: FlushAsyncLoading(785): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.03:829][172]LogStreaming: Display: FlushAsyncLoading(788): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.03:858][173]LogStreaming: Display: FlushAsyncLoading(791): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.03:886][174]LogStreaming: Display: FlushAsyncLoading(794): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.03:913][175]LogStreaming: Display: FlushAsyncLoading(797): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.03:950][176]LogStreaming: Display: FlushAsyncLoading(800): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.04:013][177]LogStreaming: Display: FlushAsyncLoading(803): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.04:081][178]LogStreaming: Display: FlushAsyncLoading(806): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.04:148][179]LogStreaming: Display: FlushAsyncLoading(809): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.04:179][180]LogStreaming: Display: FlushAsyncLoading(812): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.04:209][181]LogStreaming: Display: FlushAsyncLoading(815): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.04:238][182]LogStreaming: Display: FlushAsyncLoading(818): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.04:267][183]LogStreaming: Display: FlushAsyncLoading(821): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.04:297][184]LogStreaming: Display: FlushAsyncLoading(824): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.04:326][185]LogStreaming: Display: FlushAsyncLoading(827): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.04:355][186]LogStreaming: Display: FlushAsyncLoading(830): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.04:384][187]LogStreaming: Display: FlushAsyncLoading(833): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.04:413][188]LogStreaming: Display: FlushAsyncLoading(836): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.04:442][189]LogStreaming: Display: FlushAsyncLoading(839): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.04:470][190]LogStreaming: Display: FlushAsyncLoading(842): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.12:050][547]LogStreaming: Display: FlushAsyncLoading(845): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.12:075][547]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_02.MM_Attack_02
+[2026.03.06-16.54.12:077][547]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.03.06-16.54.12:084][547]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_02.MM_Attack_02 (Required Memory Estimate: 0.69 MB)
+[2026.03.06-16.54.12:110][547]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_02.MM_Attack_02, at AnimationSequence/422b2cdb91871462f1bf8683bdfb73f6cdc5375b
+[2026.03.06-16.54.12:237][547]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.06-16.54.13:360][547]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.03.06-16.54.14:581][547]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.03.06-16.54.14:925][548]LogStreaming: Display: FlushAsyncLoading(854): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.15:055][551]LogStreaming: Display: FlushAsyncLoading(855): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.17:780][618]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.54.17:780][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.54.18:197][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2026.03.06-16.54.23:969][757]LogSlate: Window 'MM_Attack_02' being destroyed
+[2026.03.06-16.54.24:030][757]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.54.24:030][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.54.24:049][757]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.54.24:049][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.54.24:150][757]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.54.24:152][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.54.24:224][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2026.03.06-16.54.43:860][753]LogStreaming: Display: FlushAsyncLoading(858): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.43:889][754]LogStreaming: Display: FlushAsyncLoading(862): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.54.48:911][947]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/BTT_AtaqueMelee.BTT_AtaqueMelee
+[2026.03.06-16.54.48:913][947]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.03.06-16.55.41:392][221]LogBlueprint: Warning: [AssetLog] D:\isabe\Documents\Esfinge\Esfinge\Content\Blueprints\AI\BTT_AtaqueMelee.uasset: [Compiler] 'Character' does not inherit from 'AIController' ( Cast To Character  would always fail).
+[2026.03.06-16.55.41:655][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2026.03.06-16.57.35:486][934]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2026.03.06-16.58.02:493][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2026.03.06-16.58.02:496][450]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Pruebas1' took 0.054
+[2026.03.06-16.58.02:500][450]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTT_AtaqueMelee] ([2] browsable assets)...
+[2026.03.06-16.58.02:501][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTT_AtaqueMelee]
+[2026.03.06-16.58.02:573][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI/BTT_AtaqueMelee_Auto1
+[2026.03.06-16.58.02:575][450]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/BTT_AtaqueMelee_Auto1DB358E9F46369319497ACB9FB6B8AC87.tmp' to '../../../../../Documents/Esfinge/Esfinge/Saved/Autosaves/Game/Blueprints/AI/BTT_AtaqueMelee_Auto1.uasset'
+[2026.03.06-16.58.02:580][450]LogFileHelpers: Auto-saving content packages took 0.084
+[2026.03.06-16.58.06:761][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.03.06-16.58.08:299][662]LogSlate: Window 'Save Content' being destroyed
+[2026.03.06-16.58.08:328][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.06-16.58.08:410][662]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTT_AtaqueMelee] ([2] browsable assets)...
+[2026.03.06-16.58.08:410][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTT_AtaqueMelee]
+[2026.03.06-16.58.08:410][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BTT_AtaqueMelee" FILE="../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_AtaqueMelee.uasset" SILENT=true
+[2026.03.06-16.58.08:447][662]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTT_AtaqueMelee
+[2026.03.06-16.58.08:449][662]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/BTT_AtaqueMelee8CF9A22C4382CA53BD8C57ADFC84D3F6.tmp' to '../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_AtaqueMelee.uasset'
+[2026.03.06-16.58.08:479][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.614 ms (total: 1.43 sec)
+[2026.03.06-16.58.08:599][662]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.06-16.58.08:599][662]LogContentValidation: Enabled validators:
+[2026.03.06-16.58.08:599][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.06-16.58.08:599][662]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.06-16.58.08:600][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.06-16.58.08:600][662]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.06-16.58.08:600][662]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.06-16.58.08:601][662]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.06-16.58.08:603][662]AssetCheck: /Game/Blueprints/AI/BTT_AtaqueMelee Validating asset
+[2026.03.06-16.58.27:756][594]LogStreaming: Display: FlushAsyncLoading(865): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.27:841][596]LogStreaming: Display: FlushAsyncLoading(868): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.27:918][597]LogStreaming: Display: FlushAsyncLoading(872): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.27:990][598]LogStreaming: Display: FlushAsyncLoading(876): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.28:021][599]LogStreaming: Display: FlushAsyncLoading(879): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.28:050][600]LogStreaming: Display: FlushAsyncLoading(882): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.28:079][601]LogStreaming: Display: FlushAsyncLoading(885): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.28:106][602]LogStreaming: Display: FlushAsyncLoading(888): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.28:169][603]LogStreaming: Display: FlushAsyncLoading(891): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.28:197][604]LogStreaming: Display: FlushAsyncLoading(894): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.28:226][605]LogStreaming: Display: FlushAsyncLoading(897): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.28:256][606]LogStreaming: Display: FlushAsyncLoading(900): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.28:288][607]LogStreaming: Display: FlushAsyncLoading(903): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.28:319][608]LogStreaming: Display: FlushAsyncLoading(906): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.28:347][609]LogStreaming: Display: FlushAsyncLoading(909): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.28:377][610]LogStreaming: Display: FlushAsyncLoading(912): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.28:408][611]LogStreaming: Display: FlushAsyncLoading(915): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.30:578][712]LogStreaming: Display: FlushAsyncLoading(918): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.30:624][713]LogStreaming: Display: FlushAsyncLoading(921): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.30:665][714]LogStreaming: Display: FlushAsyncLoading(924): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.30:705][715]LogStreaming: Display: FlushAsyncLoading(927): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.30:758][716]LogStreaming: Display: FlushAsyncLoading(930): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.30:921][717]LogStreaming: Display: FlushAsyncLoading(933): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.30:996][718]LogStreaming: Display: FlushAsyncLoading(936): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.31:093][719]LogStreaming: Display: FlushAsyncLoading(939): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.31:174][720]LogStreaming: Display: FlushAsyncLoading(942): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.31:253][721]LogStreaming: Display: FlushAsyncLoading(945): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.31:288][722]LogStreaming: Display: FlushAsyncLoading(948): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.31:324][723]LogStreaming: Display: FlushAsyncLoading(951): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.32:703][780]LogStreaming: Display: FlushAsyncLoading(954): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.32:742][781]LogStreaming: Display: FlushAsyncLoading(957): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.32:771][782]LogStreaming: Display: FlushAsyncLoading(960): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.32:803][783]LogStreaming: Display: FlushAsyncLoading(963): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.32:831][784]LogStreaming: Display: FlushAsyncLoading(966): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.32:860][785]LogStreaming: Display: FlushAsyncLoading(969): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.32:892][786]LogStreaming: Display: FlushAsyncLoading(972): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.32:921][787]LogStreaming: Display: FlushAsyncLoading(975): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.32:949][788]LogStreaming: Display: FlushAsyncLoading(978): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.32:978][789]LogStreaming: Display: FlushAsyncLoading(981): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.33:006][790]LogStreaming: Display: FlushAsyncLoading(984): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.33:034][791]LogStreaming: Display: FlushAsyncLoading(987): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.33:061][792]LogStreaming: Display: FlushAsyncLoading(990): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.33:093][793]LogStreaming: Display: FlushAsyncLoading(993): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.33:338][800]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01.MM_Attack_01
+[2026.03.06-16.58.33:342][800]LogStreaming: Display: FlushAsyncLoading(996): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.33:347][800]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.03.06-16.58.33:471][800]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.06-16.58.34:781][800]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.03.06-16.58.36:548][800]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.03.06-16.58.37:070][801]LogStreaming: Display: FlushAsyncLoading(1001): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.40:369][893]LogStreaming: Display: FlushAsyncLoading(1003): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.40:412][894]LogStreaming: Display: FlushAsyncLoading(1006): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.40:456][895]LogStreaming: Display: FlushAsyncLoading(1009): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.40:497][896]LogStreaming: Display: FlushAsyncLoading(1012): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.40:542][897]LogStreaming: Display: FlushAsyncLoading(1015): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.40:586][898]LogStreaming: Display: FlushAsyncLoading(1018): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.40:627][899]LogStreaming: Display: FlushAsyncLoading(1021): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.40:676][900]LogStreaming: Display: FlushAsyncLoading(1024): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.40:731][901]LogStreaming: Display: FlushAsyncLoading(1027): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.40:789][902]LogStreaming: Display: FlushAsyncLoading(1030): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.41:042][906]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_02.MM_Attack_02
+[2026.03.06-16.58.41:114][906]LogStreaming: Display: FlushAsyncLoading(1033): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.41:328][906]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.03.06-16.58.41:479][906]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.58.41:482][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.58.41:612][907]LogStreaming: Display: FlushAsyncLoading(1034): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.41:811][907]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2026.03.06-16.58.41:902][908]LogStreaming: Display: FlushAsyncLoading(1037): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.41:952][909]LogStreaming: Display: FlushAsyncLoading(1041): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.41:998][910]LogStreaming: Display: FlushAsyncLoading(1044): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:048][911]LogStreaming: Display: FlushAsyncLoading(1047): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:100][912]LogStreaming: Display: FlushAsyncLoading(1050): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:147][913]LogStreaming: Display: FlushAsyncLoading(1053): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:190][914]LogStreaming: Display: FlushAsyncLoading(1056): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:235][915]LogStreaming: Display: FlushAsyncLoading(1059): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:277][916]LogStreaming: Display: FlushAsyncLoading(1062): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:324][917]LogStreaming: Display: FlushAsyncLoading(1065): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:366][918]LogStreaming: Display: FlushAsyncLoading(1068): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:410][919]LogStreaming: Display: FlushAsyncLoading(1071): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:456][920]LogStreaming: Display: FlushAsyncLoading(1074): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:500][921]LogStreaming: Display: FlushAsyncLoading(1077): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:545][922]LogStreaming: Display: FlushAsyncLoading(1080): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:583][923]LogStreaming: Display: FlushAsyncLoading(1083): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:624][924]LogStreaming: Display: FlushAsyncLoading(1086): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:669][925]LogStreaming: Display: FlushAsyncLoading(1089): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:712][926]LogStreaming: Display: FlushAsyncLoading(1092): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:751][927]LogStreaming: Display: FlushAsyncLoading(1095): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:795][928]LogStreaming: Display: FlushAsyncLoading(1098): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:835][929]LogStreaming: Display: FlushAsyncLoading(1101): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:879][930]LogStreaming: Display: FlushAsyncLoading(1104): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:924][931]LogStreaming: Display: FlushAsyncLoading(1107): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.42:963][932]LogStreaming: Display: FlushAsyncLoading(1110): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.43:008][933]LogStreaming: Display: FlushAsyncLoading(1113): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.43:052][934]LogStreaming: Display: FlushAsyncLoading(1116): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.43:087][935]LogStreaming: Display: FlushAsyncLoading(1119): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.43:146][936]LogStreaming: Display: FlushAsyncLoading(1122): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.45:094][997]LogStreaming: Display: FlushAsyncLoading(1125): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.46:697][ 36]LogStreaming: Display: FlushAsyncLoading(1128): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.46:790][ 36]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_03.MM_Attack_03
+[2026.03.06-16.58.46:809][ 36]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_03.MM_Attack_03 (Required Memory Estimate: 1.06 MB)
+[2026.03.06-16.58.46:874][ 36]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_03.MM_Attack_03, at AnimationSequence/523a1b3b9c90331465faedad4cfa2866bdc36179
+[2026.03.06-16.58.47:071][ 36]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.03.06-16.58.47:177][ 36]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.58.47:177][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.58.47:287][ 37]LogStreaming: Display: FlushAsyncLoading(1133): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.47:442][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2026.03.06-16.58.47:530][ 38]LogStreaming: Display: FlushAsyncLoading(1136): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.47:581][ 39]LogStreaming: Display: FlushAsyncLoading(1140): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.47:633][ 40]LogStreaming: Display: FlushAsyncLoading(1143): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.47:684][ 41]LogStreaming: Display: FlushAsyncLoading(1146): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.47:730][ 42]LogStreaming: Display: FlushAsyncLoading(1149): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.47:782][ 43]LogStreaming: Display: FlushAsyncLoading(1152): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.47:835][ 44]LogStreaming: Display: FlushAsyncLoading(1155): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.47:885][ 45]LogStreaming: Display: FlushAsyncLoading(1158): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.47:937][ 46]LogStreaming: Display: FlushAsyncLoading(1161): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.47:987][ 47]LogStreaming: Display: FlushAsyncLoading(1164): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:034][ 48]LogStreaming: Display: FlushAsyncLoading(1167): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:077][ 49]LogStreaming: Display: FlushAsyncLoading(1170): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:125][ 50]LogStreaming: Display: FlushAsyncLoading(1173): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:170][ 51]LogStreaming: Display: FlushAsyncLoading(1176): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:215][ 52]LogStreaming: Display: FlushAsyncLoading(1179): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:263][ 53]LogStreaming: Display: FlushAsyncLoading(1182): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:305][ 54]LogStreaming: Display: FlushAsyncLoading(1185): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:349][ 55]LogStreaming: Display: FlushAsyncLoading(1188): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:391][ 56]LogStreaming: Display: FlushAsyncLoading(1191): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:437][ 57]LogStreaming: Display: FlushAsyncLoading(1194): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:485][ 58]LogStreaming: Display: FlushAsyncLoading(1197): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:527][ 59]LogStreaming: Display: FlushAsyncLoading(1200): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:577][ 60]LogStreaming: Display: FlushAsyncLoading(1203): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:623][ 61]LogStreaming: Display: FlushAsyncLoading(1206): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:670][ 62]LogStreaming: Display: FlushAsyncLoading(1209): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:714][ 63]LogStreaming: Display: FlushAsyncLoading(1212): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:759][ 64]LogStreaming: Display: FlushAsyncLoading(1215): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:811][ 65]LogStreaming: Display: FlushAsyncLoading(1218): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:858][ 66]LogStreaming: Display: FlushAsyncLoading(1221): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:904][ 67]LogStreaming: Display: FlushAsyncLoading(1224): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:950][ 68]LogStreaming: Display: FlushAsyncLoading(1227): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.48:999][ 69]LogStreaming: Display: FlushAsyncLoading(1230): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.50:339][102]LogStreaming: Display: FlushAsyncLoading(1233): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.50:367][102]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_ChargedAttack.MM_ChargedAttack (Required Memory Estimate: 1.15 MB)
+[2026.03.06-16.58.50:372][102]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_ChargedAttack.MM_ChargedAttack
+[2026.03.06-16.58.50:393][102]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_ChargedAttack.MM_ChargedAttack, at AnimationSequence/659229611b9b50cda128dd919a0f1dbea16789c9
+[2026.03.06-16.58.50:552][102]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.03.06-16.58.50:619][102]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.58.50:619][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.58.50:740][103]LogStreaming: Display: FlushAsyncLoading(1241): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.50:868][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2026.03.06-16.58.50:906][104]LogStreaming: Display: FlushAsyncLoading(1244): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.50:951][105]LogStreaming: Display: FlushAsyncLoading(1248): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.50:999][106]LogStreaming: Display: FlushAsyncLoading(1251): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:054][107]LogStreaming: Display: FlushAsyncLoading(1254): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:104][108]LogStreaming: Display: FlushAsyncLoading(1257): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:158][109]LogStreaming: Display: FlushAsyncLoading(1260): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:217][110]LogStreaming: Display: FlushAsyncLoading(1263): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:272][111]LogStreaming: Display: FlushAsyncLoading(1266): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:330][112]LogStreaming: Display: FlushAsyncLoading(1269): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:388][113]LogStreaming: Display: FlushAsyncLoading(1272): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:451][114]LogStreaming: Display: FlushAsyncLoading(1275): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:499][115]LogStreaming: Display: FlushAsyncLoading(1278): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:547][116]LogStreaming: Display: FlushAsyncLoading(1281): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:592][117]LogStreaming: Display: FlushAsyncLoading(1284): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:640][118]LogStreaming: Display: FlushAsyncLoading(1287): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:688][119]LogStreaming: Display: FlushAsyncLoading(1290): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:733][120]LogStreaming: Display: FlushAsyncLoading(1293): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:780][121]LogStreaming: Display: FlushAsyncLoading(1296): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:823][122]LogStreaming: Display: FlushAsyncLoading(1299): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:870][123]LogStreaming: Display: FlushAsyncLoading(1302): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:922][124]LogStreaming: Display: FlushAsyncLoading(1305): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.51:974][125]LogStreaming: Display: FlushAsyncLoading(1308): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:030][126]LogStreaming: Display: FlushAsyncLoading(1311): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:080][127]LogStreaming: Display: FlushAsyncLoading(1314): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:132][128]LogStreaming: Display: FlushAsyncLoading(1317): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:197][129]LogStreaming: Display: FlushAsyncLoading(1320): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:254][130]LogStreaming: Display: FlushAsyncLoading(1323): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:311][131]LogStreaming: Display: FlushAsyncLoading(1326): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:365][132]LogStreaming: Display: FlushAsyncLoading(1329): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:413][133]LogStreaming: Display: FlushAsyncLoading(1332): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:460][134]LogStreaming: Display: FlushAsyncLoading(1335): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:519][135]LogStreaming: Display: FlushAsyncLoading(1338): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:565][136]LogStreaming: Display: FlushAsyncLoading(1341): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:613][137]LogStreaming: Display: FlushAsyncLoading(1344): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:656][138]LogStreaming: Display: FlushAsyncLoading(1347): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:705][139]LogStreaming: Display: FlushAsyncLoading(1350): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:751][140]LogStreaming: Display: FlushAsyncLoading(1353): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:797][141]LogStreaming: Display: FlushAsyncLoading(1356): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:845][142]LogStreaming: Display: FlushAsyncLoading(1359): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:893][143]LogStreaming: Display: FlushAsyncLoading(1362): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:938][144]LogStreaming: Display: FlushAsyncLoading(1365): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.52:984][145]LogStreaming: Display: FlushAsyncLoading(1368): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:028][146]LogStreaming: Display: FlushAsyncLoading(1371): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:075][147]LogStreaming: Display: FlushAsyncLoading(1374): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:119][148]LogStreaming: Display: FlushAsyncLoading(1377): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:166][149]LogStreaming: Display: FlushAsyncLoading(1380): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:215][150]LogStreaming: Display: FlushAsyncLoading(1383): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:257][151]LogStreaming: Display: FlushAsyncLoading(1386): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:301][152]LogStreaming: Display: FlushAsyncLoading(1389): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:347][153]LogStreaming: Display: FlushAsyncLoading(1392): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:390][154]LogStreaming: Display: FlushAsyncLoading(1395): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:438][155]LogStreaming: Display: FlushAsyncLoading(1398): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:479][156]LogStreaming: Display: FlushAsyncLoading(1401): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:524][157]LogStreaming: Display: FlushAsyncLoading(1404): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:568][158]LogStreaming: Display: FlushAsyncLoading(1407): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:609][159]LogStreaming: Display: FlushAsyncLoading(1410): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:652][160]LogStreaming: Display: FlushAsyncLoading(1413): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:693][161]LogStreaming: Display: FlushAsyncLoading(1416): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:737][162]LogStreaming: Display: FlushAsyncLoading(1419): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:835][163]LogStreaming: Display: FlushAsyncLoading(1422): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.53:918][164]LogStreaming: Display: FlushAsyncLoading(1425): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:037][166]LogStreaming: Display: FlushAsyncLoading(1428): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:083][167]LogStreaming: Display: FlushAsyncLoading(1431): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:135][168]LogStreaming: Display: FlushAsyncLoading(1434): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:244][169]LogStreaming: Display: FlushAsyncLoading(1437): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:338][170]LogStreaming: Display: FlushAsyncLoading(1440): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:386][171]LogStreaming: Display: FlushAsyncLoading(1443): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:432][172]LogStreaming: Display: FlushAsyncLoading(1446): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:475][173]LogStreaming: Display: FlushAsyncLoading(1449): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:522][174]LogStreaming: Display: FlushAsyncLoading(1452): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:567][175]LogStreaming: Display: FlushAsyncLoading(1455): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:613][176]LogStreaming: Display: FlushAsyncLoading(1458): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:659][177]LogStreaming: Display: FlushAsyncLoading(1461): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:710][178]LogStreaming: Display: FlushAsyncLoading(1464): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:762][179]LogStreaming: Display: FlushAsyncLoading(1467): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:805][180]LogStreaming: Display: FlushAsyncLoading(1470): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:855][181]LogStreaming: Display: FlushAsyncLoading(1473): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:905][182]LogStreaming: Display: FlushAsyncLoading(1476): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.54:957][183]LogStreaming: Display: FlushAsyncLoading(1479): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:005][184]LogStreaming: Display: FlushAsyncLoading(1482): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:050][185]LogStreaming: Display: FlushAsyncLoading(1485): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:099][186]LogStreaming: Display: FlushAsyncLoading(1488): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:145][187]LogStreaming: Display: FlushAsyncLoading(1491): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:193][188]LogStreaming: Display: FlushAsyncLoading(1494): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:242][189]LogStreaming: Display: FlushAsyncLoading(1497): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:288][190]LogStreaming: Display: FlushAsyncLoading(1500): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:336][191]LogStreaming: Display: FlushAsyncLoading(1503): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:381][192]LogStreaming: Display: FlushAsyncLoading(1506): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:429][193]LogStreaming: Display: FlushAsyncLoading(1509): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:479][194]LogStreaming: Display: FlushAsyncLoading(1512): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:529][195]LogStreaming: Display: FlushAsyncLoading(1515): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:580][196]LogStreaming: Display: FlushAsyncLoading(1518): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:629][197]LogStreaming: Display: FlushAsyncLoading(1521): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:677][198]LogStreaming: Display: FlushAsyncLoading(1524): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:731][199]LogStreaming: Display: FlushAsyncLoading(1527): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:784][200]LogStreaming: Display: FlushAsyncLoading(1530): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:832][201]LogStreaming: Display: FlushAsyncLoading(1533): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:880][202]LogStreaming: Display: FlushAsyncLoading(1536): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:930][203]LogStreaming: Display: FlushAsyncLoading(1539): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.55:976][204]LogStreaming: Display: FlushAsyncLoading(1542): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.56:024][205]LogStreaming: Display: FlushAsyncLoading(1545): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.56:069][206]LogStreaming: Display: FlushAsyncLoading(1548): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.56:116][207]LogStreaming: Display: FlushAsyncLoading(1551): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.56:165][208]LogStreaming: Display: FlushAsyncLoading(1554): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.56:210][209]LogStreaming: Display: FlushAsyncLoading(1557): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.56:258][210]LogStreaming: Display: FlushAsyncLoading(1560): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.56:302][211]LogStreaming: Display: FlushAsyncLoading(1563): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.56:344][212]LogStreaming: Display: FlushAsyncLoading(1566): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.56:397][213]LogStreaming: Display: FlushAsyncLoading(1569): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.56:615][217]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01.MM_Attack_01
+[2026.03.06-16.58.56:680][217]LogStreaming: Display: FlushAsyncLoading(1572): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.56:812][217]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.03.06-16.58.56:911][217]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.58.56:911][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.58.57:047][218]LogStreaming: Display: FlushAsyncLoading(1576): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.57:145][218]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2026.03.06-16.58.57:188][219]LogStreaming: Display: FlushAsyncLoading(1579): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.57:236][220]LogStreaming: Display: FlushAsyncLoading(1583): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.57:283][221]LogStreaming: Display: FlushAsyncLoading(1586): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.57:330][222]LogStreaming: Display: FlushAsyncLoading(1589): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.57:376][223]LogStreaming: Display: FlushAsyncLoading(1592): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.57:419][224]LogStreaming: Display: FlushAsyncLoading(1595): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.57:466][225]LogStreaming: Display: FlushAsyncLoading(1598): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.57:513][226]LogStreaming: Display: FlushAsyncLoading(1601): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.57:568][227]LogStreaming: Display: FlushAsyncLoading(1604): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.57:624][228]LogStreaming: Display: FlushAsyncLoading(1607): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.57:681][229]LogStreaming: Display: FlushAsyncLoading(1610): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.57:748][230]LogStreaming: Display: FlushAsyncLoading(1613): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.58.57:802][231]LogStreaming: Display: FlushAsyncLoading(1616): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.01:278][307]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.59.01:278][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.59.01:303][307]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.59.01:303][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.59.01:425][307]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-16.59.01:425][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-16.59.01:502][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2026.03.06-16.59.24:388][585]LogStreaming: Display: FlushAsyncLoading(1619): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.24:418][586]LogStreaming: Display: FlushAsyncLoading(1623): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.24:473][587]LogStreaming: Display: FlushAsyncLoading(1626): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.24:509][588]LogStreaming: Display: FlushAsyncLoading(1629): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.24:538][589]LogStreaming: Display: FlushAsyncLoading(1632): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.24:573][590]LogStreaming: Display: FlushAsyncLoading(1635): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.24:607][591]LogStreaming: Display: FlushAsyncLoading(1638): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.24:638][592]LogStreaming: Display: FlushAsyncLoading(1641): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.24:670][593]LogStreaming: Display: FlushAsyncLoading(1644): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.24:704][594]LogStreaming: Display: FlushAsyncLoading(1647): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.24:738][595]LogStreaming: Display: FlushAsyncLoading(1650): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.24:815][596]LogStreaming: Display: FlushAsyncLoading(1653): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.24:882][597]LogStreaming: Display: FlushAsyncLoading(1656): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.24:953][598]LogStreaming: Display: FlushAsyncLoading(1659): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.24:985][599]LogStreaming: Display: FlushAsyncLoading(1662): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:016][600]LogStreaming: Display: FlushAsyncLoading(1665): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:049][601]LogStreaming: Display: FlushAsyncLoading(1668): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:078][602]LogStreaming: Display: FlushAsyncLoading(1671): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:108][603]LogStreaming: Display: FlushAsyncLoading(1674): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:138][604]LogStreaming: Display: FlushAsyncLoading(1677): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:170][605]LogStreaming: Display: FlushAsyncLoading(1680): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:202][606]LogStreaming: Display: FlushAsyncLoading(1683): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:231][607]LogStreaming: Display: FlushAsyncLoading(1686): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:260][608]LogStreaming: Display: FlushAsyncLoading(1689): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:293][609]LogStreaming: Display: FlushAsyncLoading(1692): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:324][610]LogStreaming: Display: FlushAsyncLoading(1695): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:356][611]LogStreaming: Display: FlushAsyncLoading(1698): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:386][612]LogStreaming: Display: FlushAsyncLoading(1701): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:420][613]LogStreaming: Display: FlushAsyncLoading(1704): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:455][614]LogStreaming: Display: FlushAsyncLoading(1707): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:487][615]LogStreaming: Display: FlushAsyncLoading(1710): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:521][616]LogStreaming: Display: FlushAsyncLoading(1713): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:554][617]LogStreaming: Display: FlushAsyncLoading(1716): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:586][618]LogStreaming: Display: FlushAsyncLoading(1719): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:849][619]LogStreaming: Display: FlushAsyncLoading(1722): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.25:972][620]LogStreaming: Display: FlushAsyncLoading(1725): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.31:981][844]LogStreaming: Display: FlushAsyncLoading(1728): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:015][845]LogStreaming: Display: FlushAsyncLoading(1731): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:047][846]LogStreaming: Display: FlushAsyncLoading(1734): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:079][847]LogStreaming: Display: FlushAsyncLoading(1737): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:109][848]LogStreaming: Display: FlushAsyncLoading(1740): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:139][849]LogStreaming: Display: FlushAsyncLoading(1743): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:168][850]LogStreaming: Display: FlushAsyncLoading(1746): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:198][851]LogStreaming: Display: FlushAsyncLoading(1749): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:229][852]LogStreaming: Display: FlushAsyncLoading(1752): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:284][853]LogStreaming: Display: FlushAsyncLoading(1755): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:364][854]LogStreaming: Display: FlushAsyncLoading(1758): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:400][855]LogStreaming: Display: FlushAsyncLoading(1761): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:431][856]LogStreaming: Display: FlushAsyncLoading(1764): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:461][857]LogStreaming: Display: FlushAsyncLoading(1767): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:490][858]LogStreaming: Display: FlushAsyncLoading(1770): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:525][859]LogStreaming: Display: FlushAsyncLoading(1773): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:554][860]LogStreaming: Display: FlushAsyncLoading(1776): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:630][861]LogStreaming: Display: FlushAsyncLoading(1779): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:865][866]LogStreaming: Display: FlushAsyncLoading(1782): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:931][867]LogStreaming: Display: FlushAsyncLoading(1785): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.32:966][868]LogStreaming: Display: FlushAsyncLoading(1788): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:001][869]LogStreaming: Display: FlushAsyncLoading(1791): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:033][870]LogStreaming: Display: FlushAsyncLoading(1794): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:065][871]LogStreaming: Display: FlushAsyncLoading(1797): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:096][872]LogStreaming: Display: FlushAsyncLoading(1800): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:129][873]LogStreaming: Display: FlushAsyncLoading(1803): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:159][874]LogStreaming: Display: FlushAsyncLoading(1806): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:189][875]LogStreaming: Display: FlushAsyncLoading(1809): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:222][876]LogStreaming: Display: FlushAsyncLoading(1812): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:251][877]LogStreaming: Display: FlushAsyncLoading(1815): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:281][878]LogStreaming: Display: FlushAsyncLoading(1818): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:311][879]LogStreaming: Display: FlushAsyncLoading(1821): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:342][880]LogStreaming: Display: FlushAsyncLoading(1824): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:373][881]LogStreaming: Display: FlushAsyncLoading(1827): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:405][882]LogStreaming: Display: FlushAsyncLoading(1830): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:436][883]LogStreaming: Display: FlushAsyncLoading(1833): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:469][884]LogStreaming: Display: FlushAsyncLoading(1836): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:498][885]LogStreaming: Display: FlushAsyncLoading(1839): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:527][886]LogStreaming: Display: FlushAsyncLoading(1842): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:559][887]LogStreaming: Display: FlushAsyncLoading(1845): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:593][888]LogStreaming: Display: FlushAsyncLoading(1848): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:622][889]LogStreaming: Display: FlushAsyncLoading(1851): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:736][890]LogStreaming: Display: FlushAsyncLoading(1854): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:765][891]LogStreaming: Display: FlushAsyncLoading(1857): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.33:834][892]LogStreaming: Display: FlushAsyncLoading(1860): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.56:410][904]LogContentBrowser: Deferred new asset file creation: MM_Attack_01_Montage
+[2026.03.06-16.59.56:443][904]LogContentBrowser: Creating deferred item: MM_Attack_01_Montage
+[2026.03.06-16.59.56:490][905]LogContentBrowser: Renaming the item being created (Deferred Item: MM_Attack_01_Montage).
+[2026.03.06-16.59.57:751][961]LogStreaming: Display: FlushAsyncLoading(1863): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.57:795][962]LogStreaming: Display: FlushAsyncLoading(1866): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.59:553][ 39]LogStreaming: Display: FlushAsyncLoading(1869): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.59:585][ 40]LogStreaming: Display: FlushAsyncLoading(1872): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.59:616][ 41]LogStreaming: Display: FlushAsyncLoading(1875): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.59:648][ 42]LogStreaming: Display: FlushAsyncLoading(1878): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.59:683][ 43]LogStreaming: Display: FlushAsyncLoading(1881): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.59:716][ 44]LogStreaming: Display: FlushAsyncLoading(1884): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.59:748][ 45]LogStreaming: Display: FlushAsyncLoading(1887): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.59:776][ 46]LogStreaming: Display: FlushAsyncLoading(1890): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.59:808][ 47]LogStreaming: Display: FlushAsyncLoading(1893): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.59:839][ 48]LogStreaming: Display: FlushAsyncLoading(1896): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.59:871][ 49]LogStreaming: Display: FlushAsyncLoading(1899): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.59:904][ 50]LogStreaming: Display: FlushAsyncLoading(1902): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.59:936][ 51]LogStreaming: Display: FlushAsyncLoading(1905): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-16.59.59:968][ 52]LogStreaming: Display: FlushAsyncLoading(1908): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:000][ 53]LogStreaming: Display: FlushAsyncLoading(1911): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:033][ 54]LogStreaming: Display: FlushAsyncLoading(1914): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:064][ 55]LogStreaming: Display: FlushAsyncLoading(1917): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:095][ 56]LogStreaming: Display: FlushAsyncLoading(1920): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:126][ 57]LogStreaming: Display: FlushAsyncLoading(1923): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:156][ 58]LogStreaming: Display: FlushAsyncLoading(1926): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:182][ 59]LogStreaming: Display: FlushAsyncLoading(1929): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:211][ 60]LogStreaming: Display: FlushAsyncLoading(1932): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:238][ 61]LogStreaming: Display: FlushAsyncLoading(1935): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:267][ 62]LogStreaming: Display: FlushAsyncLoading(1938): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:296][ 63]LogStreaming: Display: FlushAsyncLoading(1941): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:323][ 64]LogStreaming: Display: FlushAsyncLoading(1944): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:351][ 65]LogStreaming: Display: FlushAsyncLoading(1947): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:380][ 66]LogStreaming: Display: FlushAsyncLoading(1950): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:410][ 67]LogStreaming: Display: FlushAsyncLoading(1953): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:439][ 68]LogStreaming: Display: FlushAsyncLoading(1956): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:468][ 69]LogStreaming: Display: FlushAsyncLoading(1959): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:498][ 70]LogStreaming: Display: FlushAsyncLoading(1962): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:529][ 71]LogStreaming: Display: FlushAsyncLoading(1965): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:563][ 72]LogStreaming: Display: FlushAsyncLoading(1968): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:597][ 73]LogStreaming: Display: FlushAsyncLoading(1971): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:629][ 74]LogStreaming: Display: FlushAsyncLoading(1974): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:665][ 75]LogStreaming: Display: FlushAsyncLoading(1977): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:702][ 76]LogStreaming: Display: FlushAsyncLoading(1980): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:737][ 77]LogStreaming: Display: FlushAsyncLoading(1983): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:769][ 78]LogStreaming: Display: FlushAsyncLoading(1986): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:805][ 79]LogStreaming: Display: FlushAsyncLoading(1989): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:840][ 80]LogStreaming: Display: FlushAsyncLoading(1992): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:876][ 81]LogStreaming: Display: FlushAsyncLoading(1995): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:910][ 82]LogStreaming: Display: FlushAsyncLoading(1998): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.00:948][ 83]LogContentBrowser: Attempting asset rename: MM_Attack_01_Montage -> MM_Attack_01_Montage
+[2026.03.06-17.00.01:064][ 83]LogContentBrowser: End creating deferred item MM_Attack_01_Montage
+[2026.03.06-17.00.01:154][ 84]LogStreaming: Display: FlushAsyncLoading(2001): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:312][ 86]LogStreaming: Display: FlushAsyncLoading(2004): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:343][ 87]LogStreaming: Display: FlushAsyncLoading(2007): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:374][ 88]LogStreaming: Display: FlushAsyncLoading(2010): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:408][ 89]LogStreaming: Display: FlushAsyncLoading(2013): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:440][ 90]LogStreaming: Display: FlushAsyncLoading(2016): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:473][ 91]LogStreaming: Display: FlushAsyncLoading(2019): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:504][ 92]LogStreaming: Display: FlushAsyncLoading(2022): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:537][ 93]LogStreaming: Display: FlushAsyncLoading(2025): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:574][ 94]LogStreaming: Display: FlushAsyncLoading(2028): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:603][ 95]LogStreaming: Display: FlushAsyncLoading(2031): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:633][ 96]LogStreaming: Display: FlushAsyncLoading(2034): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:664][ 97]LogStreaming: Display: FlushAsyncLoading(2037): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:694][ 98]LogStreaming: Display: FlushAsyncLoading(2040): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:725][ 99]LogStreaming: Display: FlushAsyncLoading(2043): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:755][100]LogStreaming: Display: FlushAsyncLoading(2046): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:785][101]LogStreaming: Display: FlushAsyncLoading(2049): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:821][102]LogStreaming: Display: FlushAsyncLoading(2052): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:852][103]LogStreaming: Display: FlushAsyncLoading(2055): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:883][104]LogStreaming: Display: FlushAsyncLoading(2058): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:914][105]LogStreaming: Display: FlushAsyncLoading(2061): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:952][106]LogStreaming: Display: FlushAsyncLoading(2064): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.01:983][107]LogStreaming: Display: FlushAsyncLoading(2067): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.02:014][108]LogStreaming: Display: FlushAsyncLoading(2070): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.02:043][109]LogStreaming: Display: FlushAsyncLoading(2073): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.02:502][121]LogStreaming: Display: FlushAsyncLoading(2076): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.02:543][122]LogStreaming: Display: FlushAsyncLoading(2079): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.06:726][314]LogStreaming: Display: FlushAsyncLoading(2082): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.06:759][315]LogStreaming: Display: FlushAsyncLoading(2085): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.07:503][340]LogStreaming: Display: FlushAsyncLoading(2088): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.19:892][951]LogStreaming: Display: FlushAsyncLoading(2091): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.19:923][952]LogStreaming: Display: FlushAsyncLoading(2094): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.19:948][953]LogStreaming: Display: FlushAsyncLoading(2097): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.19:977][954]LogStreaming: Display: FlushAsyncLoading(2100): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.20:008][955]LogStreaming: Display: FlushAsyncLoading(2103): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.20:065][957]LogStreaming: Display: FlushAsyncLoading(2106): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.20:097][958]LogStreaming: Display: FlushAsyncLoading(2109): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.20:127][959]LogStreaming: Display: FlushAsyncLoading(2112): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.20:158][960]LogStreaming: Display: FlushAsyncLoading(2115): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.20:209][961]LogStreaming: Display: FlushAsyncLoading(2118): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.20:291][962]LogStreaming: Display: FlushAsyncLoading(2121): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.20:359][963]LogStreaming: Display: FlushAsyncLoading(2124): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.20:390][964]LogStreaming: Display: FlushAsyncLoading(2127): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.20:421][965]LogStreaming: Display: FlushAsyncLoading(2130): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.20:452][966]LogStreaming: Display: FlushAsyncLoading(2133): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-17.00.21:243][990]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01_Montage.MM_Attack_01_Montage
+[2026.03.06-17.00.21:244][990]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.03.06-17.00.21:286][990]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.06-17.00.22:136][990]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.03.06-17.00.33:933][270]LogSlate: Window 'MM_Attack_01_Montage' being destroyed
+[2026.03.06-17.00.51:505][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2026.03.06-17.00.53:543][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2026.03.06-17.00.54:699][240]LogSlate: Window 'Save Content' being destroyed
+[2026.03.06-17.00.54:720][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.06-17.00.54:815][240]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTT_AtaqueMelee] ([2] browsable assets)...
+[2026.03.06-17.00.54:816][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTT_AtaqueMelee]
+[2026.03.06-17.00.54:816][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BTT_AtaqueMelee" FILE="../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_AtaqueMelee.uasset" SILENT=true
+[2026.03.06-17.00.54:851][240]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTT_AtaqueMelee
+[2026.03.06-17.00.54:853][240]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/BTT_AtaqueMeleeE6B0E2024C9FB4191F5E92AA584EABAD.tmp' to '../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_AtaqueMelee.uasset'
+[2026.03.06-17.00.54:858][240]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01_Montage] ([1] browsable assets)...
+[2026.03.06-17.00.54:885][240]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01_Montage.MM_Attack_01_Montage]
+[2026.03.06-17.00.54:885][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01_Montage]
+[2026.03.06-17.00.54:914][240]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01_Montage
+[2026.03.06-17.00.54:914][240]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/MM_Attack_01_MontageA1B787164858C6E5436DE09662109AAE.tmp' to '../../../../../Documents/Esfinge/Esfinge/Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01_Montage.uasset'
+[2026.03.06-17.00.54:956][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 236.280 ms (total: 1.66 sec)
+[2026.03.06-17.00.55:064][240]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.06-17.00.55:064][240]LogContentValidation: Enabled validators:
+[2026.03.06-17.00.55:064][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.06-17.00.55:064][240]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.06-17.00.55:064][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.06-17.00.55:064][240]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.06-17.00.55:064][240]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.06-17.00.55:065][240]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.06-17.00.55:065][240]AssetCheck: /Game/Blueprints/AI/BTT_AtaqueMelee Validating asset
+[2026.03.06-17.00.55:065][240]AssetCheck: /Game/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01_Montage Validating asset
+[2026.03.06-17.00.55:100][240]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Documents/Esfinge/Esfinge/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.06-17.02.02:174][332]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.06-17.03.51:386][660]LogDerivedDataCache: C:/Users/isabe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.06-17.12.37:470][ 30]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.06-17.16.08:744][663]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.06-18.03.51:433][249]LogDerivedDataCache: C:/Users/isabe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.009 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.06-18.24.01:405][371]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=1 - OMEN 27 (AMD High Definition Audio Device), InstanceID=1
+[2026.03.06-18.24.01:409][371]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{d64465d2-fa87-45a6-ac26-eec88af55e32}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.03.06-18.24.01:428][372]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{d64465d2-fa87-45a6-ac26-eec88af55e32}]
+[2026.03.06-18.24.01:428][372]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.03.06-18.24.01:433][372]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.03.06-18.24.02:435][393]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d64465d2-fa87-45a6-ac26-eec88af55e32}, Name=1 - OMEN 27 (AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=603.23
+[2026.03.06-18.24.02:441][393]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.03.06-18.24.02:441][393]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.06-18.24.02:449][393]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.06-18.24.04:377][468]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (Realtek(R) Audio), InstanceID=1
+[2026.03.06-18.24.04:378][468]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{08afeff9-be1b-4e69-9734-cec2d3da35f8}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.03.06-18.24.04:396][469]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{08afeff9-be1b-4e69-9734-cec2d3da35f8}]
+[2026.03.06-18.24.04:396][469]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.03.06-18.24.04:403][469]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.03.06-18.24.05:031][498]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{08afeff9-be1b-4e69-9734-cec2d3da35f8}, Name=Altavoces (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=618.78
+[2026.03.06-18.24.05:034][498]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.03.06-18.24.05:034][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.06-18.24.05:038][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.06-18.24.57:784][316]LogUObjectHash: Compacting FUObjectHashTables data took  33.23ms
+[2026.03.06-18.24.57:876][316]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Pruebas1' took 1.108
+[2026.03.06-18.24.57:898][316]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTT_AtaqueMelee] ([2] browsable assets)...
+[2026.03.06-18.24.57:899][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTT_AtaqueMelee]
+[2026.03.06-18.24.58:079][316]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI/BTT_AtaqueMelee_Auto2
+[2026.03.06-18.24.58:081][316]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/BTT_AtaqueMelee_Auto23E9FB2504D66EA9F94DFCB82944D6F36.tmp' to '../../../../../Documents/Esfinge/Esfinge/Saved/Autosaves/Game/Blueprints/AI/BTT_AtaqueMelee_Auto2.uasset'
+[2026.03.06-18.24.58:110][316]LogFileHelpers: Auto-saving content packages took 0.231
+[2026.03.06-18.26.36:371][559]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.06-18.58.38:434][730]LogHttp: Warning: 0000021460798C00: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.06-18.58.38:436][731]LogHttp: Warning: 0000021460798C00: libcurl info message cache 0 (Too old connection (1920 seconds idle), disconnect it)
+[2026.03.06-18.58.38:437][731]LogHttp: Warning: 0000021460798C00: libcurl info message cache 1 (Connection 11 seems to be dead)
+[2026.03.06-18.58.38:437][731]LogHttp: Warning: 0000021460798C00: libcurl info message cache 2 (shutting down connection #11)
+[2026.03.06-18.58.38:437][731]LogHttp: Warning: 0000021460798C00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.03.06-18.58.38:437][731]LogHttp: Warning: 0000021460798C00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.06-18.58.38:437][731]LogHttp: Warning: 0000021460798C00: libcurl info message cache 5 (shutting down connection #12)
+[2026.03.06-18.58.38:437][731]LogHttp: Warning: 0000021460798C00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46655C61-42A4-C32C-0E10-3B8522F41594%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=a4a4caba458abf1454de3183e719add2%7Cef697ba5f0ff401480fe04e4b3e0f0d0%7C8e63ea79-a506-4df8-96c7-85306ab35dfe&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.46s
+[2026.03.06-19.02.13:151][374]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.06-19.04.58:115][462]LogBlueprint: Error: [AssetLog] D:\isabe\Documents\Esfinge\Esfinge\Content\Blueprints\AI\BTT_AtaqueMelee.uasset: [Compiler] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2026.03.06-19.04.58:857][462]LogUObjectHash: Compacting FUObjectHashTables data took  32.16ms
+[2026.03.06-19.05.44:279][363]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.06-19.06.01:303][526]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2026.03.06-19.06.01:308][526]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Pruebas1' took 0.061
+[2026.03.06-19.06.01:316][526]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTT_AtaqueMelee] ([2] browsable assets)...
+[2026.03.06-19.06.01:317][526]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTT_AtaqueMelee]
+[2026.03.06-19.06.01:400][526]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI/BTT_AtaqueMelee_Auto3
+[2026.03.06-19.06.01:401][526]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/BTT_AtaqueMelee_Auto38686950445DF16AE7E4168BD96CB0DE6.tmp' to '../../../../../Documents/Esfinge/Esfinge/Saved/Autosaves/Game/Blueprints/AI/BTT_AtaqueMelee_Auto3.uasset'
+[2026.03.06-19.06.01:422][526]LogFileHelpers: Auto-saving content packages took 0.113
+[2026.03.06-19.06.45:890][821]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2026.03.06-19.07.15:339][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2026.03.06-19.07.16:806][374]LogSlate: Window 'Save Content' being destroyed
+[2026.03.06-19.07.16:856][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.06-19.07.16:996][374]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTT_AtaqueMelee] ([2] browsable assets)...
+[2026.03.06-19.07.16:996][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTT_AtaqueMelee]
+[2026.03.06-19.07.16:996][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BTT_AtaqueMelee" FILE="../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_AtaqueMelee.uasset" SILENT=true
+[2026.03.06-19.07.17:046][374]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTT_AtaqueMelee
+[2026.03.06-19.07.17:048][374]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/BTT_AtaqueMelee9EF80B4C4072F0FAF2B64D89FF69C072.tmp' to '../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_AtaqueMelee.uasset'
+[2026.03.06-19.07.17:095][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 238.349 ms (total: 1.90 sec)
+[2026.03.06-19.07.17:238][374]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.06-19.07.17:239][374]LogContentValidation: Enabled validators:
+[2026.03.06-19.07.17:239][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.06-19.07.17:239][374]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.06-19.07.17:239][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.06-19.07.17:239][374]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.06-19.07.17:239][374]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.06-19.07.17:240][374]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.06-19.07.17:245][374]AssetCheck: /Game/Blueprints/AI/BTT_AtaqueMelee Validating asset
+[2026.03.06-19.17.24:204][283]LogUObjectHash: Compacting FUObjectHashTables data took  37.87ms
+[2026.03.06-19.17.24:234][283]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Pruebas1' took 0.630
+[2026.03.06-19.17.24:250][283]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy/BP_Elena] ([2] browsable assets)...
+[2026.03.06-19.17.24:306][283]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.03.06-19.17.24:953][283]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Enemy/BP_Elena.BP_Elena_C]
+[2026.03.06-19.17.24:958][283]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.03.06-19.17.25:248][283]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/BP_Elena.BP_Elena]
+[2026.03.06-19.17.25:249][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/BP_Elena]
+[2026.03.06-19.17.25:257][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy/BP_Elena" FILE="../../../../../Documents/Esfinge/Esfinge/Saved/Autosaves/Game/Blueprints/Enemy/BP_Elena_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2026.03.06-19.17.25:520][283]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Enemy/BP_Elena_Auto4
+[2026.03.06-19.17.25:521][283]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/BP_Elena_Auto412F2F1034ADA56EF918DB0A595699E64.tmp' to '../../../../../Documents/Esfinge/Esfinge/Saved/Autosaves/Game/Blueprints/Enemy/BP_Elena_Auto4.uasset'
+[2026.03.06-19.17.25:543][283]LogFileHelpers: Auto-saving content packages took 1.306
+[2026.03.06-19.18.12:838][432]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2026.03.06-19.18.14:330][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.06-19.18.14:528][491]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/BP_Elena] ([2] browsable assets)...
+[2026.03.06-19.18.14:566][491]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/BP_Elena.BP_Elena]
+[2026.03.06-19.18.14:566][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/BP_Elena]
+[2026.03.06-19.18.14:567][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy/BP_Elena" FILE="../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/Enemy/BP_Elena.uasset" SILENT=true
+[2026.03.06-19.18.14:625][491]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/BP_Elena
+[2026.03.06-19.18.14:627][491]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/BP_Elena86F7F15B4AABFDA9A6F7BD8EFCCE4B29.tmp' to '../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/Enemy/BP_Elena.uasset'
+[2026.03.06-19.18.14:670][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 340.576 ms (total: 2.24 sec)
+[2026.03.06-19.18.14:816][491]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.06-19.18.14:817][491]LogContentValidation: Enabled validators:
+[2026.03.06-19.18.14:817][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.06-19.18.14:817][491]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.06-19.18.14:817][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.06-19.18.14:817][491]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.06-19.18.14:817][491]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.06-19.18.14:817][491]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.06-19.18.14:822][491]AssetCheck: /Game/Blueprints/Enemy/BP_Elena Validating asset
+[2026.03.06-19.19.25:630][893]LogEditorTransaction: Undo Move Node
+[2026.03.06-19.19.26:928][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.06-19.19.28:891][958]LogEditorTransaction: Undo Move Nodes
+[2026.03.06-19.19.29:335][958]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.06-19.19.30:932][ 36]LogEditorTransaction: Undo Move Nodes
+[2026.03.06-19.19.31:349][ 36]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.06-19.19.32:445][ 78]LogEditorTransaction: Undo Convert to Pure Cast
+[2026.03.06-19.19.32:888][ 78]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.06-19.23.23:127][891]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.06-19.24.59:285][387]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.06-19.24.59:302][387]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.06-19.24.59:332][388]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.06-19.25.04:708][640]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2026.03.06-19.25.04:723][640]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.06-19.25.18:889][222]LogContentBrowser: Attempting asset rename: Animations -> Anims
+[2026.03.06-19.26.11:101][798]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.06-19.26.11:143][798]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.06-19.26.11:161][798]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.06-19.26.11:235][800]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.06-19.26.15:890][ 20]LogContentBrowser: Attempting asset rename: NewBlueprint -> AN_MeleeImpact
+[2026.03.06-19.26.15:967][ 20]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/Anims/AN_MeleeImpact.
+[2026.03.06-19.26.15:989][ 20]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.06-19.26.19:491][147]LogUObjectHash: Compacting FUObjectHashTables data took  24.22ms
+[2026.03.06-19.26.20:842][147]LogSlate: Window 'Save Content' being destroyed
+[2026.03.06-19.26.20:879][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.06-19.26.20:985][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Anims/AN_MeleeImpact] ([2] browsable assets)...
+[2026.03.06-19.26.20:986][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Anims/AN_MeleeImpact]
+[2026.03.06-19.26.20:986][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/AN_MeleeImpact" FILE="../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/Anims/AN_MeleeImpact.uasset" SILENT=true
+[2026.03.06-19.26.21:030][147]LogSavePackage: Moving output files for package: /Game/Blueprints/Anims/AN_MeleeImpact
+[2026.03.06-19.26.21:030][147]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/AN_MeleeImpact852CBEFA4A43873E3262E9988A94B1CF.tmp' to '../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/Anims/AN_MeleeImpact.uasset'
+[2026.03.06-19.26.21:051][147]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/Anims/AN_MeleeImpact.
+[2026.03.06-19.26.21:083][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.917 ms (total: 2.45 sec)
+[2026.03.06-19.26.21:199][147]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.06-19.26.21:199][147]LogContentValidation: Enabled validators:
+[2026.03.06-19.26.21:199][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.06-19.26.21:199][147]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.06-19.26.21:199][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.06-19.26.21:199][147]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.06-19.26.21:199][147]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.06-19.26.21:199][147]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.06-19.26.21:202][147]AssetCheck: /Game/Blueprints/Anims/AN_MeleeImpact Validating asset
+[2026.03.06-19.26.21:250][147]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Documents/Esfinge/Esfinge/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.06-19.26.27:095][412]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Anims/AN_MeleeImpact.AN_MeleeImpact
+[2026.03.06-19.26.27:124][412]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2026.03.06-19.29.00:108][907]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2026.03.06-19.29.01:305][957]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.06-19.29.01:420][957]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Anims/AN_MeleeImpact] ([2] browsable assets)...
+[2026.03.06-19.29.01:421][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Anims/AN_MeleeImpact]
+[2026.03.06-19.29.01:422][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/AN_MeleeImpact" FILE="../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/Anims/AN_MeleeImpact.uasset" SILENT=true
+[2026.03.06-19.29.01:468][957]LogSavePackage: Moving output files for package: /Game/Blueprints/Anims/AN_MeleeImpact
+[2026.03.06-19.29.01:470][957]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/AN_MeleeImpactF006C5AB4D5644DA89A966A12231A7EE.tmp' to '../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/Anims/AN_MeleeImpact.uasset'
+[2026.03.06-19.29.01:499][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.025 ms (total: 2.64 sec)
+[2026.03.06-19.29.01:621][957]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.06-19.29.01:621][957]LogContentValidation: Enabled validators:
+[2026.03.06-19.29.01:621][957]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.06-19.29.01:621][957]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.06-19.29.01:621][957]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.06-19.29.01:621][957]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.06-19.29.01:621][957]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.06-19.29.01:622][957]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.06-19.29.01:622][957]AssetCheck: /Game/Blueprints/Anims/AN_MeleeImpact Validating asset
+[2026.03.06-19.30.26:406][570]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.06-19.34.53:435][371]LogDerivedDataCache: C:/Users/isabe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.004 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.06-19.42.02:178][344]LogStreaming: Display: FlushAsyncLoading(2136): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.42.02:406][347]LogStreaming: Display: FlushAsyncLoading(2145): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.42.02:493][348]LogStreaming: Display: FlushAsyncLoading(2149): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.42.02:534][349]LogStreaming: Display: FlushAsyncLoading(2153): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.42.02:579][350]LogStreaming: Display: FlushAsyncLoading(2157): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.42.02:622][351]LogStreaming: Display: FlushAsyncLoading(2160): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.42.02:652][352]LogStreaming: Display: FlushAsyncLoading(2163): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.42.02:687][353]LogStreaming: Display: FlushAsyncLoading(2166): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.42.02:721][354]LogStreaming: Display: FlushAsyncLoading(2169): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.42.02:755][355]LogStreaming: Display: FlushAsyncLoading(2172): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.42.02:786][356]LogStreaming: Display: FlushAsyncLoading(2175): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.42.02:816][357]LogStreaming: Display: FlushAsyncLoading(2178): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.42.02:845][358]LogStreaming: Display: FlushAsyncLoading(2181): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.42.02:877][359]LogStreaming: Display: FlushAsyncLoading(2184): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.42.15:641][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.06-19.42.15:641][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTT_AtaqueMelee] ([2] browsable assets)...
+[2026.03.06-19.42.15:641][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTT_AtaqueMelee]
+[2026.03.06-19.42.15:641][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BTT_AtaqueMelee" FILE="../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_AtaqueMelee.uasset" SILENT=true
+[2026.03.06-19.42.15:700][823]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTT_AtaqueMelee
+[2026.03.06-19.42.15:702][823]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/BTT_AtaqueMeleeAE8CFE074CC8F13A6AA2ED9E7924DBD4.tmp' to '../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/AI/BTT_AtaqueMelee.uasset'
+[2026.03.06-19.42.15:709][823]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Anims/MM_Attack_01_Montage] ([1] browsable assets)...
+[2026.03.06-19.42.15:734][823]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Blueprints/Anims/MM_Attack_01_Montage.MM_Attack_01_Montage]
+[2026.03.06-19.42.15:735][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Anims/MM_Attack_01_Montage]
+[2026.03.06-19.42.15:735][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/MM_Attack_01_Montage" FILE="../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/Anims/MM_Attack_01_Montage.uasset" SILENT=true
+[2026.03.06-19.42.15:776][823]LogSavePackage: Moving output files for package: /Game/Blueprints/Anims/MM_Attack_01_Montage
+[2026.03.06-19.42.15:776][823]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/MM_Attack_01_Montage4E7290184FACCA15E47C86BCD0AC9FBC.tmp' to '../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/Anims/MM_Attack_01_Montage.uasset'
+[2026.03.06-19.42.15:815][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.289 ms (total: 2.81 sec)
+[2026.03.06-19.42.16:580][823]LogUObjectHash: Compacting FUObjectHashTables data took  16.56ms
+[2026.03.06-19.42.16:655][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.03.06-19.42.16:709][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.06-19.42.16:791][823]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.06-19.42.16:793][823]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.06-19.42.16:793][823]LogContentValidation: Enabled validators:
+[2026.03.06-19.42.16:793][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.06-19.42.16:793][823]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.06-19.42.16:793][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.06-19.42.16:793][823]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.06-19.42.16:793][823]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.06-19.42.16:793][823]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.06-19.42.16:794][823]AssetCheck: /Game/Blueprints/AI/BTT_AtaqueMelee Validating asset
+[2026.03.06-19.42.16:794][823]AssetCheck: /Game/Blueprints/Anims/MM_Attack_01_Montage Validating asset
+[2026.03.06-19.42.16:882][823]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Documents/Esfinge/Esfinge/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.06-19.47.57:567][592]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2026.03.06-19.47.57:989][592]LogStreaming: Display: FlushAsyncLoading(2187): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.48.01:784][699]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.48.01:792][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.48.02:330][700]LogUObjectHash: Compacting FUObjectHashTables data took  18.78ms
+[2026.03.06-19.48.03:895][744]LogStreaming: Display: FlushAsyncLoading(2189): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.48.03:938][744]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.03.06-19.48.34:036][609]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.48.34:036][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.48.34:128][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2026.03.06-19.48.36:722][687]LogStreaming: Display: FlushAsyncLoading(2192): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.06-19.48.36:765][687]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.03.06-19.49.36:974][277]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2026.03.06-19.49.38:136][277]LogSlate: Window 'Save Content' being destroyed
+[2026.03.06-19.49.38:173][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.06-19.49.38:346][277]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Anims/MM_Attack_01_Montage] ([1] browsable assets)...
+[2026.03.06-19.49.38:346][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Anims/MM_Attack_01_Montage]
+[2026.03.06-19.49.38:346][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Anims/MM_Attack_01_Montage" FILE="../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/Anims/MM_Attack_01_Montage.uasset" SILENT=true
+[2026.03.06-19.49.38:385][277]LogSavePackage: Moving output files for package: /Game/Blueprints/Anims/MM_Attack_01_Montage
+[2026.03.06-19.49.38:386][277]LogSavePackage: Moving '../../../../../Documents/Esfinge/Esfinge/Saved/MM_Attack_01_Montage1F0F007C468D239EDB12AFB485ECFD7B.tmp' to '../../../../../Documents/Esfinge/Esfinge/Content/Blueprints/Anims/MM_Attack_01_Montage.uasset'
+[2026.03.06-19.49.38:419][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 244.910 ms (total: 3.06 sec)
+[2026.03.06-19.49.38:587][277]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.06-19.49.38:587][277]LogContentValidation: Enabled validators:
+[2026.03.06-19.49.38:587][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.06-19.49.38:587][277]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.06-19.49.38:587][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.06-19.49.38:587][277]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.06-19.49.38:587][277]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.06-19.49.38:587][277]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.06-19.49.38:589][277]AssetCheck: /Game/Blueprints/Anims/MM_Attack_01_Montage Validating asset
+[2026.03.06-19.49.39:976][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2026.03.06-19.49.40:135][305]LogStall: Shutdown...
+[2026.03.06-19.49.40:136][305]LogStall: Shutdown complete.
+[2026.03.06-19.49.40:395][305]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.40:395][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.40:958][305]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.40:958][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.42:408][305]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.42:409][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.43:576][305]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.06-19.49.43:577][305]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.43:577][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.45:705][305]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.06-19.49.45:705][305]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.45:705][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.46:945][305]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.46:945][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.47:040][305]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.47:041][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.47:079][305]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.47:079][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.47:345][305]LogSlate: Window 'Esfinge - Unreal Editor' being destroyed
+[2026.03.06-19.49.51:936][305]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2026.03.06-19.49.52:000][305]Cmd: QUIT_EDITOR
+[2026.03.06-19.49.52:001][305]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.06-19.49.52:034][306]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.06-19.49.52:040][306]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.06-19.49.52:042][306]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.06-19.49.52:074][306]LogWorld: UWorld::CleanupWorld for Pruebas1, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.52:093][306]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.06-19.49.52:202][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.52:312][306]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.06-19.49.52:318][306]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.06-19.49.52:382][306]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.06-19.49.52:793][306]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.52:793][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.52:804][306]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.52:806][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.52:815][306]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.52:816][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.52:823][306]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.52:823][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.52:830][306]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.52:831][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.52:838][306]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.52:838][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.52:843][306]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.52:843][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.52:860][306]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.52:860][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.52:866][306]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-19.49.52:866][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-19.49.52:891][306]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.06-19.49.52:896][306]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.06-19.49.52:935][306]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.06-19.49.52:970][306]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.06-19.49.52:970][306]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.06-19.49.52:971][306]LogAudio: Display: Audio Device unregistered from world 'Pruebas1'.
+[2026.03.06-19.49.52:973][306]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.06-19.49.52:983][306]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.06-19.49.53:017][306]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.06-19.49.53:105][306]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.06-19.49.53:106][306]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.06-19.49.53:118][306]LogWindowsTextInputMethodSystem: Activated input method: Español (Colombia) - (Keyboard).
+[2026.03.06-19.49.53:157][306]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.06-19.49.53:168][306]LogExit: Preparing to exit.
+[2026.03.06-19.49.53:387][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2026.03.06-19.49.53:394][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:396][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:401][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:403][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:403][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:403][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:404][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:404][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:404][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:404][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:404][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:404][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:404][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:405][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:405][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:405][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:406][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:406][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:406][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:408][306]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.53:408][306]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.06-19.49.54:680][306]LogEditorDataStorage: Deinitializing
+[2026.03.06-19.49.56:127][306]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.06-19.49.56:393][306]LogExit: Editor shut down
+[2026.03.06-19.49.56:436][306]LogExit: Transaction tracking system shut down
+[2026.03.06-19.49.59:002][306]LogExit: Object subsystem successfully closed.
+[2026.03.06-19.49.59:083][306]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.06-19.50.00:340][306]LogMemoryProfiler: Shutdown
+[2026.03.06-19.50.00:342][306]LogNetworkingProfiler: Shutdown
+[2026.03.06-19.50.00:342][306]LoadingProfiler: Shutdown
+[2026.03.06-19.50.00:343][306]LogTimingProfiler: Shutdown
+[2026.03.06-19.50.00:360][306]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.06-19.50.00:361][306]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.06-19.50.02:191][306]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.06-19.50.02:196][306]RenderDocPlugin: plugin has been unloaded.
+[2026.03.06-19.50.02:250][306]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.06-19.50.02:250][306]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46655C61-42A4-C32C-0E10-3B8522F41594%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=a4a4caba458abf1454de3183e719add2%7Cef697ba5f0ff401480fe04e4b3e0f0d0%7C8e63ea79-a506-4df8-96c7-85306ab35dfe&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.06-19.50.02:333][306]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.06-19.50.02:347][306]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.06-19.50.02:360][306]LogXGEController: Cleaning working directory: C:/Users/isabe/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.03.06-19.50.02:407][306]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.06-19.50.02:407][306]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.06-19.50.02:409][306]LogPakFile: Destroying PakPlatformFile
+[2026.03.06-19.50.02:744][306]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.06-19.50.02:810][306]LogExit: Exiting.
+[2026.03.06-19.50.02:935][306]Log file closed, 03/06/26 14:50:02
