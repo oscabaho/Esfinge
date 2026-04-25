@@ -125,3 +125,37 @@ Before opening a core Blueprint or Level, explicitly notify the team in the desi
 | **Scale** | `1 Unreal Unit = 1 cm` |
 | **Pivot Points** | All props must have their pivot at the **base or center** for easy placement. |
 | **Collisions** | Custom `UCX_` collisions for complex meshes to keep the **NavMesh clean** for AI. |
+
+---
+
+## 6. Evaluation Feedback & Iterations (Version 1.2)
+
+This section documents external design feedback and the technical/artistic solutions implemented to address each point, ensuring continuous improvement of the project.
+
+### 🎯 Objective Clarity & Visual Feedback
+
+**Feedback:** *"No es claro cómo completar el arma ni el objetivo final. Falta claridad visual en objetos recolectables."*
+
+* **Visual Clarity (Custom Stencil):** Implemented a highly optimized Raycast system that triggers a Custom Stencil render when looking at interactable items. A Laplace edge-detection post-process draws a consistent outline around the item, ensuring it stands out regardless of lighting or distance.
+* **Objective Tracking (`WBP_Objective`):** Added a dynamic HUD tracker that counts required components (e.g., "Buscando recursos X/4"), keeping the player constantly informed of their immediate goal.
+* **Real-time Toasts (`WBP_PickupToast`):** Created a Reactive UI Toast Manager that displays elegant, temporary side-screen notifications whenever a vital item is collected.
+
+### 📡 Holographic Diegetic Radar System
+
+**Goal:** Provide immersive, diegetic spatial awareness without cluttering the HUD.
+
+* **Decoupled Logic (`AC_RadarSystem`):** A dedicated Actor Component handles overlap detection, spatial math (world to local relative coordinates), and a 45-second cooldown mechanism. It broadcasts state changes strictly via Event Dispatchers (`OnRadarActivated`, `OnRadarDeactivated`, `OnRadarPing`).
+* **Target Interface (`BPI_StealthTarget`):** Used to securely validate and filter which actors appear on the radar, automatically ignoring the owning player's overlaps to prevent self-detection bugs.
+* **State-Driven UI (`WBP_Radar`):** The widget strictly acts as a listener. It uses robust `TimerHandles` (replacing unreliable latent Delays) to manage its animation lifecycle, ensuring seamless fade-in/fade-out transitions and safe state cancellation.
+* **Hub Integration (`WBP_GameLayout`):** The Master Hub dynamically instantiates the radar widget at runtime, anchors it cleanly to the `HUDLayer`, and binds to the component's dispatchers, maintaining our perfect architectural decoupling.
+
+### ⚙️ Technical & Environment Fixes
+
+* **Camera Issues:** *"Problemas en la cámara en primera persona."*
+  * **Solution (Implemented):** Modified the camera behavior to adopt a 100% pure first-person perspective, completely removing the previous unstable hybrid (3rd/1st person) mechanics and fixing clipping issues.
+* **Material Warnings:** *"Advertencias de materiales (Nanite)."*
+  * **Solution (Implemented):** Resolved console warnings by explicitly disabling Nanite on incompatible materials (such as translucency and complex masks) while maintaining performance.
+* **Content Organization:** *"Organizar Content Browser."*
+  * **Solution (Implemented):** Executed a strict cleanup, organizing folders and assets with highly descriptive naming conventions to maintain a professional workspace.
+* **Prop Scale Inconsistency:** *"Escala inconsistente de props."*
+  * **Status (In Progress):** The Art Team is currently in charge of this standard. Several updated asset deliveries have been integrated, but the task remains open until the final art batches are delivered.
