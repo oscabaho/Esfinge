@@ -159,3 +159,18 @@ This section documents external design feedback and the technical/artistic solut
   * **Solution (Implemented):** Executed a strict cleanup, organizing folders and assets with highly descriptive naming conventions to maintain a professional workspace.
 * **Prop Scale Inconsistency:** *"Escala inconsistente de props."*
   * **Status (In Progress):** The Art Team is currently in charge of this standard. Several updated asset deliveries have been integrated, but the task remains open until the final art batches are delivered.
+
+### 🩸 Dynamic Combat Feedback (Directional Damage Indicator)
+
+**Goal:** Provide clear, high-performance visual feedback indicating where damage is coming from without relying on inefficient per-frame calculations (`Event Tick`) or unstable latent nodes (`Delay`).
+
+* **Mathematical Approach:** Instead of complex 3D math per frame, the indicator's rotation is calculated exactly once upon receiving damage using `LookAtYaw - CameraYaw` against the `DamageCauser`. This ensures the UI accurately points to the threat regardless of player camera movement at the moment of impact.
+* **Hub Integration (`WBP_GameLayout`):** The Master Hub dynamically instantiates the `WBP_DamageIndicator` widget, passing the `DamageCauser` as an *Expose on Spawn* variable, maintaining decoupled architecture.
+* **Self-Cleaning Lifecycle:** The widget strictly manages its own memory by utilizing native UI Delegates (`Bind to On Animation Finished`) to trigger `Remove From Parent` automatically once the fade-out animation completes, guaranteeing zero memory leaks or blocking nodes.
+
+### 🧠 AI Stability & Physics-Based Combat Refactoring (Elena)
+
+**Goal:** Eliminate "phantom hits" and engine crashes caused by outdated homing damage and unsafe latent nodes in the enemy AI logic.
+
+* **Physics-Based Hit Detection:** Replaced guaranteed homing `ApplyDamage` nodes with physical `SphereTraceMulti` validations tied to the melee animation montages. Damage is now only applied if the player's physical capsule is successfully traced during the weapon swing, rewarding player positioning and dodging.
+* **Safe Death Lifecycle:** Eradicated unstable `Delay` nodes from the `ReceiveAnyDamage` death sequence. Implemented robust `TimerHandles` and dedicated AI Stop Logic, ensuring that the Behavior Tree, movement components, and collisions are safely disabled without causing engine crashes due to garbage collection of invalid actors.
