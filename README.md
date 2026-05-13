@@ -159,3 +159,11 @@ This section documents external design feedback and the technical/artistic solut
   * **Solution (Implemented):** Executed a strict cleanup, organizing folders and assets with highly descriptive naming conventions to maintain a professional workspace.
 * **Prop Scale Inconsistency:** *"Escala inconsistente de props."*
   * **Status (In Progress):** The Art Team is currently in charge of this standard. Several updated asset deliveries have been integrated, but the task remains open until the final art batches are delivered.
+
+### 🏗️ Architectural Regressions & Enforcement (BP_Door)
+
+**Feedback:** External additions introduced monolithic, tightly coupled logic (e.g., `BP_Door` casting directly to `BP_Player` and using unmanaged `Delay` nodes), breaking our established decoupled architecture.
+
+* **Interface Enforcement:** Removed hard references to the player. The door now exclusively listens for the generic `OnInteract` event via the `BPI_Interactable` interface, completely decoupling it from specific actor classes.
+* **Component Standardization:** Replaced corrupted components (Gizmos) with standard `StaticMeshComponent` ensuring correct physics and trace collision compatibility.
+* **Latent Action Purge (No Delays):** Replaced unstable `Delay` nodes with strict `TimerHandle` management (`Set Timer by Event`, `Clear and Invalidate Timer Handle`) to govern auto-close logic safely, preventing fatal errors if the actor is destroyed during transit.
