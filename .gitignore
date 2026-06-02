@@ -123,3 +123,5 @@ $RECYCLE.BIN/
 # Photoshop
 *.psd
 *.psb
+
+scratch_zip/
